@@ -137,20 +137,20 @@ section.module.paralax:after{
 }
 
 section.module.paralax-1{
-    background-image: url('/img/foto6.jpg');
+    background-image: url('https://www.madeinweb.com.br/wp-content/uploads/2019/11/impacto-tecnologia-em-nossas-vidas-2.jpg');
     opacity: 0.8;
     height: 100%;
 }
 
 section.module.paralax-2{
-    background-image: url("/img/foto5.jpg");
+    background-image: url("https://www.madeinweb.com.br/wp-content/uploads/2019/11/impacto-tecnologia-em-nossas-vidas-2.jpg");
     height: 100%;
     opacity: 0.8;
 }
 
 section.module.paralax-3{
     height: 100%;
-    background-image: url("/img/banner.jpg");
+    background-image: url("https://www.madeinweb.com.br/wp-content/uploads/2019/11/impacto-tecnologia-em-nossas-vidas-2.jpg");
     opacity: 0.8;
 }
 
